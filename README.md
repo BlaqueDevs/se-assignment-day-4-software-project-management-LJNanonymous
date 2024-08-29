@@ -174,7 +174,7 @@ Communication Tool: A clear, visual way to communicate project timelines and pro
 
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-People find it hard to link a professional for a given task; following a workload, my app helps bridge that gap in the education sector.  By addressing these issues, your app improves the efficiency of finding and managing professional services, which is crucial for maintaining productivity- private ideas won't explain more.
+People find it hard to link a professional for a given task; following a workload, my app helps bridge that gap in the education sector.  By addressing these issues, your app improves the efficiency of finding and managing professional services, which is crucial for maintaining productivity- Will need PLP HELP ON THIS PLEASE.
 
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
